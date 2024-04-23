@@ -1,0 +1,4 @@
+Nama: aki
+Umur: 21
+Alamat: wong surabaaya
+---

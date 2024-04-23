@@ -1,0 +1,5 @@
+Client: hai
+Server: hai juga
+Client: apa kabar denganmu
+Server: baik kok
+Client: [e]
